@@ -1,0 +1,14 @@
+{
+  "projects": {
+    "default": "flutterappbuilders"
+  },
+  "targets": {
+    "flutterappbuilders": {
+      "hosting": {
+        "learnflutternow1": [
+          "learnflutternow-com"
+        ]
+      }
+    }
+  }
+}
